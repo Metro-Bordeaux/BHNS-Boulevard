@@ -1,0 +1,63 @@
+location_type,parent_station,stop_code,stop_desc,stop_id,stop_lat,stop_lon,stop_name,stop_url,wheelchair_boarding,zone_id
+,,,,Gare St Jean,44.826014,-0.556914,Gare St jean,,1,Gare St jean
+,,,,Malbec,44.827515,-0.561226,Malbec,,1,Malbec
+,,,,Billaudel,44.824872,-0.563566,Billaudel,,1,Billaudel
+,,,,Rue de Bègles,44.82346,-0.566275,Rue de Bègles,,1,Rue de Bègles
+,,,,Rue de la Réole,44.821829,-0.56935,Rue de la Réole,,1,Rue de la Réole
+,,,,Nansouty,44.819064,-0.572365,Nansouty,,1,Nansouty
+,,,,Brun,44.817291,-0.572303,Brun,,1,Brun
+,,,,Bvd Roosevelt,44.815686,-0.573999,Bvd Roosevelt,,1,Bvd Roosevelt
+,,,,Cité Cairon,44.818833,-0.578973,Cité Cairon,,1,Cité Cairon
+,,,,Carros,44.819751,-0.580412,Carros,,1,Carros
+,,,,Br St Genes,44.820936,-0.582235,Br St Genes,,1,Br St Genes
+,,,,Bvd Georges V,44.824074,-0.587184,Bvd Georges V,,1,Bvd Georges V
+,,,,Br de Pessac,44.825936,-0.590089,Br de Pessac,,1,Br de Pessac
+,,,,Xaintrailles,44.828238,-0.59358,Xaintrailles,,1,Xaintrailles
+,,,,Stade Chaban Delmas,44.830404,-0.596834,Stade Chaban Delmas,,1,Stade Chaban Delmas
+,,,,Br d'Ornano,44.832074,-0.598398,Br d'Ornano,,1,Br d'Ornano
+,,,,Br St Augustin,44.833725,-0.59863,Br St Augustin,,1,Br St Augustin
+,,,,Br d'Arès,44.835864,-0.598818,Br d'Arès,,1,Br d'Arès
+,,,,Br Judaïque,44.840682,-0.599228,Br Judaïque,,1,Br Judaïque
+,,,,Cité Administrative,44.842945,-0.599474,Cité Administrative,,1,Cité Administrative
+,,,,Pasteur,44.84588,-0.598459,Pasteur,,1,Pasteur
+,,,,Br St Médard,44.848633,-0.597229,Br St Médard,,1,Br St Médard
+,,,,Carnot,44.85204,-0.594698,Carnot,,1,Carnot
+,,,,Br du Médoc,44.854634,-0.592799,Br du Médoc,,1,Br du Médoc
+,,,,Tivoli,44.85615,-0.591629,Tivoli,,1,Tivoli
+,,,,Cité Chaigneau,44.857693,-0.590473,Cité Chaigneau,,1,Cité Chaigneau
+,,,,Mandron,44.859686,-0.589055,Mandron,,1,Mandron
+,,,,Grand Parc,44.861547,-0.58669,Grand Parc,,1,Grand Parc
+,,,,Ampère,44.862559,-0.584081,Ampère,,1,Ampère
+,,,,Calixte Camelle,44.863548,-0.58166,Calixte Camelle,,1,Calixte Camelle
+,,,,Berthelot,44.864953,-0.578037,Berthelot,,1,Berthelot
+,,,,Place Ravezies,44.866432,-0.574367,Place Ravezies,,1,Place Ravezies
+,,,,Jean Hameau,44.868371,-0.569852,Jean Hameau,,1,Jean Hameau
+,,,,Latule,44.870352,-0.565162,Latule,,1,Latule
+,,,,Faure - Brunet,44.865857,-0.560871,Faure - Brunet,,1,Faure - Brunet
+,,,,Faure - Balguerie,44.862641,-0.556625,Faure - Balguerie,,1,Faure - Balguerie
+,,,,La Cité du Vin,44.86053,-0.554134,La Cité du Vin,,1,La Cité du Vin
+,,,,Quai de Brazza,44.8559136,-0.5483804,Quai de Brazza,,1,Quai de Brazza
+,,,,Brazza,44.85271,-0.54429,Brazza,,1,Brazza
+,,,,Galin,44.85005,-0.54842,Galin,,1,Galin
+,,,,Niel,44.84633,-0.55439,Niel,,1,Niel
+,,,,Thiers-Benauge,44.84293,-0.55616,Thiers-Benauge,,1,Thiers-Benauge
+,,,,Le Rouzic,44.8430288,-0.5530554,Le Rouzic,,1,Le Rouzic
+,,,,Jean Dauguet,44.843083,-0.5462433,Jean Dauguet,,1,Jean Dauguet
+,,,,Deschamps - Belvédère,44.83991,-0.54275,Deschamps - Belvédère,,1,Deschamps - Belvédère
+,,,,Eymet - Richelieu,44.83742,-0.54115,Eymet - Richelieu,,1,Eymet - Richelieu
+,,,,Eymet - Etang,44.83466,-0.53602,Eymet - Etang,,1,Eymet - Etang
+,,,,Laffargue,44.8318,-0.53102,Laffargue,,1,Laffargue
+,,,,Mairie de Floirac,44.83053,-0.52905,Mairie de Floirac,,1,Mairie de Floirac
+,,,,Mascaret,44.8272,-0.52905,Mascaret,,1,Mascaret
+,,,,Arena,44.82545,-0.53269,Arena,,1,Arena
+,,,,Quai de Brienne,44.82256,-0.54198,Quai de Brienne,,1,Quai de Brienne
+,,,,Quai de Paludate,44.82481,-0.54556,Quai de Paludate,,1,Quai de Paludate
+,,,,MECA,44.82715,-0.55051,MECA,,1,MECA
+,,,,Latécoère,44.866928,-0.573524,Latécoère,,1,Latécoère
+,,,,Lespiault,44.82659,-0.591309,Lespiault,,1,Lespiault
+,,,,Br St Genès,44.821431,-0.583343,Br St Genès,,1,Br St Genès
+,,,,Pont de Cauderès,44.817802,-0.577679,Pont de Cauderès,,1,Pont de Cauderès
+,,,,Br de Toulouse,44.815429,-0.572451,Br de Toulouse,,1,Br de Toulouse
+,,,,Caserne Nansouty,44.820261,-0.569073,Caserne Nansouty,,1,Caserne Nansouty
+,,,,Donnet,44.822133,-0.562962,Donnet,,1,Donnet
+,,,,Pont du Guit,44.823784,-0.558432,Pont du Guit,,1,Pont du Guit
